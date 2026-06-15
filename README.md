@@ -112,9 +112,9 @@ pip install -r requirements.txt
 # ▶️ Ejecución
 
 ```bash
-python deepseek_python_AUDIO_2.py
+screen_task_gui_final_with_AUDIO_2 - BETA.py
 ```
-
+*eliminar espacios*
 ---
 
 # 🌐 Uso del Streaming
@@ -191,7 +191,7 @@ Los clientes deberán autenticarse para visualizar el contenido.
 La versión compilada para Windows se encuentra disponible dentro de la carpeta:
 
 ```text
-/dist
+/dist/ScreenTaskPy.exe
 ```
 
 No es necesario instalar Python para ejecutar dicha versión.
@@ -302,7 +302,7 @@ Si el acceso fue bloqueado, agregar manualmente la aplicación a las excepciones
 
 Basado en:
 
-* ScreenTask Windows © Eslam Hamouda
-* ScreenTask © Ahmad Omar
+* ScreenTask Windows © Eslam Hamouda https://github.com/EslaMx7
+* ScreenTask © Ahmad Omar https://github.com/ahmadomar
 
 Adaptación y mejoras en Python orientadas a redes locales y streaming multimedia.
