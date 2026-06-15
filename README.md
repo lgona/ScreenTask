@@ -29,11 +29,12 @@ Incluye soporte para **streaming de video MJPEG** y **audio del sistema vía WAS
 markdown
 ## 📸 Vista previa
 
-![Interfaz principal](docs/screenshot_main.png)
+![Interfaz principal](img/principal.png)
 *Interfaz gráfica con pestañas de configuración*
 
-![Modo VLC](docs/screenshot_vlc.png)
+![Modo VLC](img/modo_vlc_abierto.png)
 *Página de instrucciones para VLC*
+![Modo VLC](img/modo_vlc.png)
 4. REQUERIMIENTOS / PREREQUISITOS
 Markdown
 Copy
