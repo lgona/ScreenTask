@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Core
 pyautogui>=0.9.54
 mss>=9.0.1
@@ -10,4 +11,18 @@ PyAudioWPatch>=0.2.12.6
 pydub>=0.25.1
 
 # Build tool
+=======
+# Core
+pyautogui>=0.9.54
+mss>=9.0.1
+Pillow>=10.0.0
+
+# Audio (IMPORTANTE: PyAudioWPatch, no pyaudio normal)
+PyAudioWPatch>=0.2.12.6
+
+# MP3 encoding
+pydub>=0.25.1
+
+# Build tool
+>>>>>>> f9053dc (Audio arreglado por separado con cable VB - falta multiple conexion)
 pyinstaller>=6.0.0
